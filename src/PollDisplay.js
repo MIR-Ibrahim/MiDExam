@@ -27,3 +27,5 @@ function PoolDisplay(){
         </div>
     )
 }
+
+export default PoolDisplay;
